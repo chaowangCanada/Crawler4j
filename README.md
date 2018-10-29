@@ -1,3 +1,7 @@
+**UPDATE**
+Crawler4j is fully functional and maintained and I urge everyone to use the original project and not this one, this fork had its usages but is not relevant anymore, so goto [Crawler4J](https://github.com/yasserg/crawler4j)
+
+
 Crawler4j
 =========
 
